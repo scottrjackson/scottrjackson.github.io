@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Scott Jackson"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: course_links.qmd
+        text: Course Materials
+      - href: scotthoughts/index.html
+        text: Personal Blog
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - sketchy
+      - brand
+      - custom.scss
+    css: styles.css
+    toc: true
+

@@ -1,0 +1,8 @@
+---
+title: Course Materials
+---
+
+- [INST 126: Introduction to Programming for Information Science]()
+- [INST 314: Statistics for Information Science (summer course)]()
+- [INST 462: Introduction to Data Visualization]()
+- **INST 624: Modern Programming Techniques** (Coming soon)
