@@ -1,23 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Scott Jackson",
+    "objectID": "course_links.html",
+    "href": "course_links.html",
+    "title": "Course Materials",
     "section": "",
-    "text": "yours truly, by Daphne Jackson, circa 2020 (dry erase on whiteboard)\n\n\nYou have landed in my little corner of the internet, please use the navigation above to find what you’re looking for."
+    "text": "INST 314: Statistics for Information Science (summer course)\nINST 126: Introduction to Programming for Information Science\nINST 462: Introduction to Data Visualization (Coming soon)\nINST 624: Modern Programming Techniques (Coming soon)"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I’m a Lecturer at the University of Maryland at College Park, in the College of Information (aka INFO). I teach courses related to building foundational skills in data science and related areas. I am also the Co-Director for the undergraduate major in Social Data Science, which is an interdisciplinary, cross-college major that allows students to combine both technical skills and content area knowledge in one of nine tracks.\nHere’s a short run-down of my professional career, which has had zome zigs and zags:\n\nPhD in Linguistics from the University of Arizona, with a minor in Neuroscience and a focus in psycholinguistics\nPostdoctoral Fellow at the University of Illinois, Urbana-Champaign, learning to use ERP brain imaging to explore human sentence processing, particularly related to prosody and intonation\nResearch Scientist at the University of Maryland Center for Advanced Study of Language, focusing on assessing aptitude for language learning (as an adult)\nData Scientist at a small cyber-adjacent startup company\nFull-time Lecturer at the University of Maryland since Fall of 2023\n\nThe common thread here is that I am passionate about meaningful data analysis, and that I love teaching and passing on skills to others."
+    "text": "I’m a Lecturer at the University of Maryland at College Park, in the College of Information (aka INFO). I teach courses related to building foundational skills in data science and related areas. I am also the Co-Director for the undergraduate major in Social Data Science, which is an interdisciplinary, cross-college major that allows students to combine both technical skills and content area knowledge in one of nine tracks.\nHere’s a short run-down of my educational and professional career, which has had zome zigs and zags:\n\nBA in Linguistics and BMusic in Music Studies (Education) from the University of Texas at Austin\nPhD in Linguistics from the University of Arizona, with a minor in Neuroscience and a focus in psycholinguistics\nPostdoctoral Fellow at the University of Illinois, Urbana-Champaign, learning to use ERP brain imaging to explore human sentence processing, particularly related to prosody and intonation\nResearch Scientist at the University of Maryland Center for Advanced Study of Language, focusing on assessing aptitude for language learning (as an adult)\nData Scientist at a small cyber-adjacent startup company\nFull-time Lecturer at the University of Maryland since Fall of 2023\n\nThe common thread here is that I am passionate about meaningful data analysis, and that I love teaching and passing on skills to others."
   },
   {
-    "objectID": "course_links.html",
-    "href": "course_links.html",
-    "title": "Course Materials",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Scott Jackson",
     "section": "",
-    "text": "INST 126: Introduction to Programming for Information Science\nINST 314: Statistics for Information Science (summer course)\nINST 462: Introduction to Data Visualization\nINST 624: Modern Programming Techniques (Coming soon)"
+    "text": "yours truly, by Daphne Jackson, circa 2020 (dry erase on whiteboard)\n\n\nYou have landed in my little corner of the internet, please use the navigation above to find what you’re looking for."
   }
 ]

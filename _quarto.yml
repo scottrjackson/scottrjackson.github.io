@@ -10,8 +10,8 @@ website:
         text: Home
       - href: course_links.qmd
         text: Course Materials
-      - href: scotthoughts/index.html
-        text: Personal Blog
+#      - href: scotthoughts/index.html
+#        text: Personal Blog
       - about.qmd
 
 format:
@@ -19,7 +19,7 @@ format:
     theme:
       - sketchy
       - brand
-      - custom.scss
+#      - custom.scss
     css: styles.css
     toc: true
 
