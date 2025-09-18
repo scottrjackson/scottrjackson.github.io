@@ -3,6 +3,6 @@ title: Course Materials
 ---
 
 - [INST 314: Statistics for Information Science (summer course)](https://scottrjackson.github.io/inst314_2025summer/index.html)
+- [INST 462: Introduction to Data Visualization](https://scottrjackson.github.io/inst462_tutorials/index.html)**** (Coming soon)
 - **INST 126: Introduction to Programming for Information Science**
-- **INST 462: Introduction to Data Visualization** (Coming soon)
-- **INST 624: Modern Programming Techniques** (Coming soon)
+- **INST 624: Modern Programming Techniques**
